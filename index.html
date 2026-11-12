@@ -6,10 +6,26 @@
     <title>Rock Paper Scissors</title>
     <link rel="stylesheet" href="style.css">
 </head>
-</head>
 <body>
-    <h1>Let's play Rock Paper Scissors?</h1>
-    <p>Press F12 or inspect to play</p>
+     <h1>Let's play Rock Paper Scissors!</h1>
+
+    <p>Choose your move:</p>
+
+    <div id="buttons">
+        <button id="rock">Rock</button>
+        <button id="paper">Paper</button>
+        <button id="scissors">Scissors</button>
+    </div>
+
+    <div id="results"></div>
+    
+<div id="winnerModal" class="modal">
+    <div class="modal-content">
+        <h2 id="winnerMessage"></h2>
+        <button id="playAgain">Play Again</button>
+    </div>
+</div>
+
     <script src="java.js"></script>
 </body>
 </html>
