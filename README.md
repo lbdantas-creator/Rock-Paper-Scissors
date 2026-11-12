@@ -45,4 +45,4 @@ This project is part of [The Odin Project](https://www.theodinproject.com/) Foun
 
 ## Author
 
-Developed as part of The Odin Project Foundations curriculum.
+Developed by Ellen Libório as part of The Odin Project Foundations curriculum.
